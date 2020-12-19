@@ -1,2 +1,3 @@
 # Instruction
-General instruction, how to install, config, program and run the kuka robot
+1. Creat the workflow using 1_WorkFlow.md  
+2. 

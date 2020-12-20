@@ -19,11 +19,11 @@
 
 
 
-# 2. Install luh_youbot_os
+# 3. Install luh_youbot_os
 * ` cd ~/catkin_ws/src`
 * ` git clone -b melodic-devel https://github.com/LUHbots/luh_youbot_os.git`
 * ` cd ..`
 * ` catkin_make`
 
-# 3. luh_youbot_os wiki
+# 4. luh_youbot_os wiki
 https://github.com/LUHbots/luh_youbot_os/wiki

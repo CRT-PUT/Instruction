@@ -30,6 +30,7 @@
 * open terminal and write command below
 * `xdg-open ~/.gazebo/models/`
 * Paste models in ~/.gazebo/models/
+* Run gazebo `roslaunch luh_youbot_gazebo youbot.launch`  
 
 # 5. luh_youbot_os wiki
 https://github.com/LUHbots/luh_youbot_os/wiki

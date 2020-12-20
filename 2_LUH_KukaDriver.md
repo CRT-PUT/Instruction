@@ -21,9 +21,15 @@
 
 # 3. Install luh_youbot_os
 * ` cd ~/catkin_ws/src`
-* ` git clone -b melodic-devel https://github.com/LUHbots/luh_youbot_os.git`
+* ` git clone https://github.com/CRT-PUT/luh_crt_os.git`
 * ` cd ..`
 * ` catkin_make`
 
-# 4. luh_youbot_os wiki
+# 4. KUKA atwork Gazeboo setup
+* Copy the models from luh_youbot_os/luh_youbot_gazebo/worlds/models
+* open terminal and write command below
+* `xdg-open ~/.gazebo/models/`
+* Paste models in ~/.gazebo/models/
+
+# 5. luh_youbot_os wiki
 https://github.com/LUHbots/luh_youbot_os/wiki

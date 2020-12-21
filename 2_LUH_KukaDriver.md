@@ -5,7 +5,7 @@
 * ` sudo apt-get install cmake`
 * ` sudo apt install pyqt5-dev-tools`
 * ` sudo apt install udo`
-
+* ` sudo apt-get install ros-melodic-cmake-modules`
 
 # 2. Required ROS Packages  
 ### control_toolbox

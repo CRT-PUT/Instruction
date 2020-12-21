@@ -9,6 +9,7 @@
 * ` sudo apt-get install udo`
 * ` sudo apt-get install ros-melodic-cmake-modules`
 * ` sudo apt-get install ros-melodic-tf-conversions`
+* ` sudo apt-get install ros-melodic-robot-state-publisher`
 
 # 2. Required ROS Packages  
 ### control_toolbox

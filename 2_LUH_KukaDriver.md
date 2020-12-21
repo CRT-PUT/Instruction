@@ -37,8 +37,7 @@
 * Run simulation `roslaunch luh_youbot_gazebo youbot.launch`  
 
 # 5. ERROR FIX
-
-  ### Error: `[Err] [REST.cc:205] Error in REST request`
+  * Error: `[Err] [REST.cc:205] Error in REST request`
   * Fix: 
   * In terminal `sudo gedit  ~/.ignition/fuel/config.yaml`
   * This error can be solved by replacing url: `https://api.ignitionfuel.org` by url: `https://api.ignitionrobotics.org`

@@ -30,12 +30,15 @@
 * ` catkin_make`
 
 # 4. KUKA atwork Gazeboo setup
-* Open terminal and write command below
-* `xdg-open ~/.gazebo/`
-* create a folder called `models` if doesn't exist already
-* Copy all models from home/catkin_ws/src/luh_youbot_os/luh_youbot_gazebo/worlds/models
+* Copy the models from luh_youbot_os/luh_youbot_gazebo/worlds/models
+* open terminal and write command below
+* `xdg-open ~/.gazebo/models/`
 * Paste models in ~/.gazebo/models/
-* Run simulation `roslaunch luh_youbot_gazebo youbot.launch`  
+* Run gazebo `roslaunch luh_youbot_gazebo youbot.launch`  
+* Run KUKA gazebo controller `roslaunch luh_youbot_controller gazebo_controller.launch`
+* follow `https://github.com/LUHbots/luh_youbot_os/wiki/%5BB%5D-Create-a-simple-ROS-Package`
+* Run `rosrun my_youbot_pkg my_youbot_node`
+* Kuka arm must move
 
 # 5. ERROR FIX
   * Error: `[Err] [REST.cc:205] Error in REST request`

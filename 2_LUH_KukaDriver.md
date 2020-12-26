@@ -40,7 +40,7 @@
 * Run `rosrun my_youbot_pkg my_youbot_node`
 * Kuka arm must move
 
-# 5. ERROR FIX
+# 5. ERROR Handeling
   * Error: `[Err] [REST.cc:205] Error in REST request`
   * Fix: 
   * In terminal `sudo gedit  ~/.ignition/fuel/config.yaml`
